@@ -53,14 +53,14 @@ body{
     text-transform: uppercase;
     font-style: italic;
     font-weight: 900;
-    background-color: blueviolet;
+    color: #1F51FF;
     
 
 }
 
 #about:hover{
     transition: 0.5s;
-    background-color: blueviolet;
+    color: #1F51FF;
     text-transform: uppercase;
     font-style: italic;
     font-weight: 900;
@@ -70,7 +70,7 @@ body{
 
 #Portfolio:hover{
     transition: 0.5s;
-    background-color: blueviolet;
+    color: #1F51FF;
     text-transform: uppercase;
     font-style: italic;
     font-weight: 900;
@@ -80,7 +80,7 @@ body{
 
 #Contact:hover{
     transition: 0.5s;
-    background-color: blueviolet;
+    color: #1F51FF;
     text-transform: uppercase;
     font-style: italic;
     font-weight: 900;
@@ -93,9 +93,24 @@ body{
     margin-top: 125px;
 }
 
+#img:hover{
+    transition: 0.5s;
+    box-shadow: 10px 10px;
+    color: #1F51FF;
+}
+
 .para{
     color: white;
     margin-top: 20px;
     margin-left: 500px;
+    
+}
+
+.para:hover{
+
+    transition: 0.5s;
+
+    color: #1F51FF;
+    
     
 }
