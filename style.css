@@ -1,0 +1,101 @@
+#home {
+    
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    
+    
+    
+    
+    
+}
+
+#about{
+    color: white;
+    text-indent: 100px;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    
+    
+    
+}
+
+#Portfolio{
+    color: white;
+    text-indent: 200;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    
+    
+}
+
+#Contact{
+    color: white;
+    text-indent: 300px;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    
+    
+    
+}
+
+body{
+    background-color: rgb(11, 3, 21);
+
+}
+#home:hover{
+    
+    transition: 0.5s;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    background-color: blueviolet;
+    
+
+}
+
+#about:hover{
+    transition: 0.5s;
+    background-color: blueviolet;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    
+
+}
+
+#Portfolio:hover{
+    transition: 0.5s;
+    background-color: blueviolet;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    
+
+}
+
+#Contact:hover{
+    transition: 0.5s;
+    background-color: blueviolet;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    
+
+}
+
+#img{
+    margin-left: 600px;
+    margin-top: 125px;
+}
+
+.para{
+    color: white;
+    margin-top: 20px;
+    margin-left: 500px;
+    
+}
